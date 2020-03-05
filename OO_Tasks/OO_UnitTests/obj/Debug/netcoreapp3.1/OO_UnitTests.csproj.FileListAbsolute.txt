@@ -1,0 +1,11 @@
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.exe
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.deps.json
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.runtimeconfig.json
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.runtimeconfig.dev.json
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.dll
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\bin\Debug\netcoreapp3.1\OO_UnitTests.pdb
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\obj\Debug\netcoreapp3.1\OO_UnitTests.csprojAssemblyReference.cache
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\obj\Debug\netcoreapp3.1\OO_UnitTests.AssemblyInfoInputs.cache
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\obj\Debug\netcoreapp3.1\OO_UnitTests.AssemblyInfo.cs
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\obj\Debug\netcoreapp3.1\OO_UnitTests.dll
+C:\Users\102542177\Downloads\Dip-OO-Task-Week-1-master\OO_Tasks\OO_UnitTests\obj\Debug\netcoreapp3.1\OO_UnitTests.pdb

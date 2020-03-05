@@ -7,8 +7,8 @@ namespace OO_Tasks_Inheritence
         private string _name;
         private string _colour;
 
-        abstract public double getArea();
-        abstract public double getPerimeter();
+        abstract public double GetArea();
+        abstract public double GetPerimeter();
 
         public Shape(string name, string color)
         {
@@ -49,13 +49,13 @@ namespace OO_Tasks_Inheritence
         {
             return _sideLength;
         }
-        public override double getArea()
+        public override double GetArea()
         {
-            return this._sideLength * this._sideLength;
+            return Math.Round(this._sideLength * this._sideLength, 2);
         }
-        public override double getPerimeter()
+        public override double GetPerimeter()
         {
-            return 4 * this._sideLength;
+            return Math.Round(4 * this._sideLength, 2);
         }
     }
 
@@ -76,13 +76,13 @@ namespace OO_Tasks_Inheritence
         {
             return this._width;
         }
-        public override double getArea()
+        public override double GetArea()
         {
-            return this._length * this._width;
+            return Math.Round(this._length * this._width, 2);
         }
-        public override double getPerimeter()
+        public override double GetPerimeter()
         {
-            return ((2 * this._length) + (2 * this._width));
+            return Math.Round( ((2 * this._length) + (2 * this._width)), 2);
         }
     }
 
@@ -94,14 +94,20 @@ namespace OO_Tasks_Inheritence
         {
             this._radius = radius;
         }
-        public override double getArea()
+        public override double GetArea()
         {
-            return ((this._radius * this._radius) * PI);
+            return Math.Round( ((this._radius * this._radius) * PI), 2);
         }
-        public override double getPerimeter()
+        public override double GetPerimeter()
         {
-            return ((2 * this._radius) * PI);
+            return Math.Round( ((2 * this._radius) * PI), 2);
         }
+
+        public double GetCircumference()
+        {
+            return Math.Round( ((2 * this._radius) * PI), 2);
+        }
+
 
     }
 
